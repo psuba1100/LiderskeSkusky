@@ -110,63 +110,63 @@ let modelovky = [
 const vedlajsieTemy = [
     {
         nadpis: 'Motivácia',
-        text: '●\tAkými rôznymi spôsobmi môžeme motivovať členov oddielu vzhľadom na situáciu, resp. ich potreby? Na čo všetko treba prihliadať pri vyberaní vhodného spôsobu motivácie? \n●\tČo by si odporúčal radcom vo svojom oddiele, ak vidíš, že nevedia pracovať s prirodzenými dôsledkami konania členov bez potreby trestov?\n●\tAké kroky by si podnikol, keby si bol presvedčený o tom, že radca (radcovia) využívajú trestanie, ktoré hraničí so zneužívaním moci?'
+        text: '●\tzásady, výhody a nevýhody používania odmien a trestov\n●\tformy odmien a trestov\n●\tprirodzený dôsledok, objektívny dôsledok  vs.   odmeny a tresty\n●\tvýznam a formy oceňovania v skautingu (7 ľalií, Skaut roka, oddielové/zborové/oblastné oceňovanie...)'
     },
     {
         nadpis: 'Fungovanie tímu',
-        text: '●\tVysvetli základy tímovej spolupráce (skupina vs. tím, tímové roly, zásady spolupráce), jej význam.\n●\tNa základe vlastnej skúsenosti z práce v tíme (počas líderskej činnosti, LRŠ alebo i.) povedz výhody/nevýhody práce v tíme.'
+        text: '●\trozdiel medzi tímom a skupinou\n●\troly v tíme\n●\tzásady spolupráce v tíme'
     },
     {
         nadpis: 'Určovanie cieľov a ich vyhodnotenie',
-        text: '●\tČo je to cieľ a aký je rozdiel medzi ním a prostriedkom?\n●\tAký je vzťah medzi problémom, cieľom a aktivitou?\n●\tAkú formuláciu by mal mať vhodný krátkodobý cieľ? Na čo si dať pri určovaní cieľov pozor?\n●\tČo je cieľová skupina a ako ju definovať?\n●\tAko sledovať napĺňanie cieľov vo výchove? Uveď praktické príklady. '
+        text: '●\tprostriedok verzus cieľ\n●\turčovanie SMART cieľov\n●\tzáklady projektového manažmentu (problém – cieľ - aktivity) = určenie a definovanie problému - nastavenie cieľa, ktorý bude riešiť problém, zvolenie vhodnej aktivity, ktorou daný cieľ dosiahnem\n●\tcieľová skupina (jej definovanie a význam pri určovaní cieľov)\n●\tsledovanie cieľov vo výchove\n●\tmotivácia na dosiahnutie cieľa	'
     },
     {
         nadpis: 'Budovanie oddielovej identity',
-        text: '●\tČo je to oddielová identita, aký je jej význam v oddielovej činnosti a v živote oddielu?\n●\tAko budovať oddielovú identitu a čo robiť pre to, aby sme si ju udržali?\n●\tKtoré sú jej zložky a ako ich môžeme využiť v praxi?\n'
+        text: '●\tvýznam oddielovej identity\n●\tzložky oddielovej identity (názov, znak, tradície a rituály, insígnie) a ich využívanie v praxi\n●\tbudovanie a udržiavanie oddielovej identity'
     },
     {
         nadpis: 'Vývinová psychológia',
-        text: '●\tCharakterizuj jednotlivé vekové kategórie (vĺčatá/včielky, skauti/skautky, rangeri/rangerky) a ich vývinové špecifiká. Ako by si tieto poznatky využil v praxi? Uveď príklady.\n●\tAké majú deti žijúce v dnešnej spoločnosti potreby a záujmy? Ako by si to využil/-a v oddielovej činnosti? Uveď konkrétne príklady.\n'
+        text: '●\tšpecifiká vekových kategórií (vĺčatá, skauti, rangeri)\n●\tzmena spôsobu vedenia v závislosti od situácie, pohlavia a od vekovej skupiny, ktorú vedieme (situačné vedenie)\n●\tmožnosti kladenia záťaže podľa vekových kategórií (fyzickej, psychickej, dostatok spánku, oddych)\n●\tprispôsobenie programu danej vekovej kategórii a záujmy dnešných detí\n●\tformy prístupu k deťom v rôznom veku a rozoznanie neštandardného správania a postupy ako to vyriešiť'
     },
     {
         nadpis: 'Základy dramaturgie programu',
-        text: '●\tAké aktivity by si vytvoril (z hľadiska dĺžky, zložitosti, fyzickej náročnosti, atď.) s ohľadom na cieľovú skupinu a jej veľkosť? Povedz pár príkladov.\n●\tAko ti pri tvorbe programu môže pomôcť libreto, leitmotív a symbolický rámec?\n●\tPrečo treba dbať na pulzný princíp a krivky výkonnosti a riadiť sa dramaturgickými zásadami?'
+        text: '●\tveľká a malá dramaturgia – rozdelenie (v rámci malej dramaturgie aj spôsoby rozdeľovania hráčov, ich výhody a nevýhody, prostredie a jeho význam)\n●\tzáklady tvorby programu a dramaturgie (dramaturgické zásady)\n●\tleitmotív, symbolický rámec, pulzný princíp, krivky výkonnosti\n●\tmaticový a bodový scenár trojdňového podujatia\n●\ttvorba aktivity (typológia aktivít, hodnotenie)\n●\tzdroje a námety na programovú činnosť'
     },
     {
         nadpis: 'Učenie sa činnosťou',
-        text: '●\tVysvetli vlastnými slovami, čo je to učenie sa činnosťou a zážitková pedagogika a aký je ich význam v skautskej činnosti.\n●\tPopíš, v čom spočíva zážitková pedagogika (Kolbov cyklus, zóny komfortu a ohrozenia) a ako by si ju využil v príprave programu.\n●\tUveď konkrétne príklady učenia sa činnosťou v programe pre jednotlivé vekové kategórie.'
+        text: '●\tzážitková pedagogika (cieľ, výhody, nevýhody)\n●\tučenie sa činnosťou v programe a napredovaní členov\n●\tKolbov cyklus\n●\tzóna komfortu – zóna ohrozenia, psychická a fyzická bezpečnosť\n●\taktivity s prvkami zážitkovej pedagogiky (spôsob výberu a zaradenia aktivity do programu, druhy, realizácia, vyhodnotenie aktivít)\n●\tskautská prax'
     },
     {
         nadpis: 'Symbolický rámec a etapové hry',
-        text: '●\tČo je to symbolický rámec, čo všetko ho tvorí a aký je jeho význam v skautskej činnosti?\n●\tAký má význam pracovať so symbolickým rámcom u jednotlivých vekových kategórii? Sú nejaké odlišnosti napríklad medzi vĺčaťom a roverom?\n●\tUveď po 2-3 príkladoch na vhodné symbolické rámce etapových hier pre vĺčatá/včielky, skautov/skautky, rangerov/rangerky.\n'
+        text: '●\tvýznam, typy a formy symbolického rámca pre vekové kategórie, riziká náročných symbolických rámcov\n●\tetapová hra ako prostriedok na dosiahnutie cieľa, nie cieľ samotný\n●\ttvorba etapovej hry (zásady tvorby, zapracovanie symbolického rámca)\n'
     },
     {
         nadpis: 'Duchovno v skautingu',
-        text: '●\tČo je to duchovný rozmer a aký je jeho význam v skautingu?\n●\tSkautský zákon a sľub ako duchovný rozvoj: vysvetli, ako je rozvíjaná duchovná oblasť prostredníctvom práce so skautským zákonom a sľubom.\n'
+        text: '●\tmiesto sľubu a zákona v duchovnom rozvoji\n●\tformy duchovného programu v oddielovom živote a jeho význam\n●\ttvorba duchovnej aktivity pre oddiel, psychická bezpečnosť a tolerancia pri tvorbe duchovného program\n●\tzdroje na kvalitné a overené duchovné aktivity/napredovanie  (výchovný program, knihy, weby, články...)\n'
     },
     {
         nadpis: 'Život v prírode - využitie prírody vo výchove/skautingu',
-        text: '●\tAký je vzťah medzi skautingom a prírodou? Aké je jej miesto v pilieroch skautingu?\n●\tAký je z tvojho pohľadu význam života v prírode (jednak pre oddiel a jednak pre jednotlivca)?\n'
+        text: '●\tskauting a príroda (vzťah, čím je príroda pre skautov...)\n●\tpríklady na aktivity v prírode\n●\tvyužitie prírody v oddielovom programe a v procese výchovy v skautingu'
     },
     {
         nadpis: 'Bezpečnosť a hygiena',
-        text: '●\tVysvetli, ako by si vhodným spôsobom komunikoval členom oddielu pravidlá bezpečnosti a hygieny na rôznych typoch akcií. Zameraj sa na rôzne typy oddielov z hľadiska veku a pohlavia.\n●\tAká je úloha teba ako lídra v dodržiavaní týchto pravidiel?'
+        text: '●\tmiera prípustného rizika\n●\tpravidlá bezpečnosti (v klubovni, v telocvični, v teréne, na akciách, pri kúpaní a cestovaní; práca s ohňom)\n●\tdodržiavanie hygienických zásad na akciách\n●\tzáťažové normy\n●\tpoistenie na výlet do hôr\n	●\tlekárnička na akcii	'
     },
     {
         nadpis: 'Krízové situácie',
-        text: '●\tČo považovať za krízovú situáciu?\n●\tAko by si postupoval v prípade vzniku krízovej situácie? Čo odporúča Slovenský skauting?\n●\tAko by si predchádzal vzniku týchto situácií?'
+        text: '●\todhad možného rizika\n●\trozhodovanie, zachovanie pokoja\n●\triešenie modelových krízových situácií'
     },
     {
         nadpis: 'Organizačná štruktúra a základné dokumenty SLSK',
-        text: '●\tAko vyzerá organizačná štruktúra SLSK od miestnej cez regionálnu až po národnú úroveň? Ktorá zložka čo zastrešuje a poskytuje?\n●\tVysvetli rozdiel medzi Stanovami SLSK a Organizačným poriadkom SLSK. Čím sa zaoberajú a kde sú sprístupnené v aktuálnom znení?'
+        text: '●\tNáčelníctvo, Ústredie Slovenského skautingu a nižšie organizačné zložky (inf. znalosť)\n●\tStanovy SLSK a Organizačný poriadok (význam, rozdiel a ich dostupnosť pre členov SLSK)\n●\tnové zmeny na národnej a regionálnej úrovni'
     },
     {
         nadpis: 'Komunikácia, skautské PR a informačné zdroje',
-        text: '●\tAké sú prostriedky vhodné na komunikáciu s rôznymi druhmi prijímateľov (členovia oddielu, oddielová rada, oddielový/zborový vodca, rodičia, verejnosť…)?\n●\tAké sú faktory, ktoré ovplyvňujú spôsob komunikácie v danej situácii?\n●\tAké komunikačné kanály používa SLSK? Ktorý komunikačný kanál používa na aký druh informácií?'
+        text: '●\tzásady vhodnej komunikácie\n●\tkomunikácia v oddielovej rade,s členmi oddielu a s rodičmi\n●\tskautské médiá: časopisy, Skautské zvesti, web a sociálne siete\n●\tzákladné zásady spravovania udalosti a fanpage na sociálnej sieti\n●\tskautské PR (tvorba plagátov, zásady komunikácie navonok, udalosť a fanpage na sociálnej sieti, propagačné materiály)\n	'
     },
     {
         nadpis: 'Vzdelávací systém',
-        text: '●\tVysvetli, čo je to vzdelávací systém SLSK a z ktorých zložiek sa skladá.\n●\tPovedz základnú charakteristiku jednotlivých zložiek vzdelávacieho systému, rozdiely medzi nimi.\n●\tPomenuj hodnosti v SLSK a spôsob, ako ich možno získať. Uveď insígnie pre jednotlivé hodnosti.\n●\tVysvetli rozdiel medzi vedúcim a vodcom.'
+        text: '●\tvzdelávací systém (stupne, vzdelávacie moduly a voľné vzdelávacie kurzy) – rozdiely, základná charakteristika a význam vzdelávania vo všeobecnosti\n●\thodnosti (radca, líder, vodca, inštruktor), ich insígnie a spôsob získania hodnosti\n●\trozdiel medzi vedúcim a vodcom\n●\tskúšky v systéme RpV – radcovské skúšky (náplň skúšok RK; základy skúšania)\n●\tvzdelávacia ponuka SLSK a iné možnosti vzdelávania pre lídrov a členov oddielu (podľa veku, zamerania činnosti, potreby)'
     },
 ]
 
@@ -175,11 +175,11 @@ const vedlajsieTemy = [
 const nosneTemy = [
     {
         nadpis: 'Piliere skautingu',
-        text: '●\tČo sú to piliere skautingu a aký je ich význam v našej činnosti?\n●\tVlastnými slovami vysvetli poslanie SLSK a ako ho aplikujeme v praxi.\n●\tKtoré princípy máme v SLSK a sa ich podstata odráža v skautskej činnosti?\n●\tNa praktickom príklade vysvetli, čo je to výchovná metóda a z ktorých častí sa skladá.'
+        text: '●\tpredstavenie pilierov skautingu na príkladoch a ich význam\n●\tposlanie\n●\tprincípy\n●\tvýchovná metóda'
     },
     {
-        nadpis: 'Výchovný systém',
-        text: '●\tČo je to výchovný program a aký je jeho význam pre skautskú činnosť a pre jednotlivca?\n●\tAko je výchovný program prepojený so 6 oblasťami rozvoja?\n●\tNa praktickom príklade opíš, ako uvedieš programový prvok (napr. Rangerský horizont; odborka Babysitter; výzva Modrý život; VPM Pamäť národa) do oddielového života, ako budeš sledovať jeho plnenie u členov a ako jeho splnenie ukončíš.\n●\tAko môžeš pomôcť radcom s implementáciou programových prvkov do činnosti družín?'
+        nadpis: 'Výchovný program',
+        text: '●\tzáklad výchovného programu – aktívny občan a všestranne rozvinutá osobnosť\n●\t6 oblastí rozvoja – ich význam a miesto v oddielovom živote\n●\tvýchovný program = programová ponuka a samostatná činnosť družín/oddielov\n●\tprogramová ponuka vĺčat, skautov a rangerov (stupne napredovania, odborky, výzvy, voľné programové moduly, najvyššie programové ocenenia) a jej význam v napĺňaní poslania SLSK\n●\tzáklady práce s programovou ponukou – ako uviesť prvok, sledovať ho počas plnenia a vyhodnotiť ho/osláviť na záver\n●\tindividuálne osobné napredovanie a jeho plánovanie\n●\tpráca s heslami vekových kategórií v rámci výchovy\n●\tMedzinárodná cena vojvodu z Edinburghu (význam, zapojenie sa, prepojenie s Rangerským horizontom)\n●\tšpecifiká vodnoskautského programu pre vĺčatá, skautov a rangerov	'
     },
 ]
 
