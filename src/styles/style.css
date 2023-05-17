@@ -107,3 +107,9 @@ h4{
     display: none;
   }
 }
+
+@media (max-width: 500px) {
+  .container {
+    flex-direction: column;
+  }
+}
