@@ -103,6 +103,10 @@ let modelovky = [
         nadpis: 'Modelová situácia č. 19',
         text: 'Si jedným z členov skúšobnej komisie na (oblastných) radovských skúškach. Kandidát na budúceho radcu si ako nosnú tému vytiahol výchovný program. K programovej ponuke pre rôzne vekové kategórie sa vedel vyjadriť, ale “zasekol sa” pri šiestich oblastiach rozvoja, pretože ich nevie poriadne vymenovať. Jednému z členov komisie sa to nepáči a začína nad ním očividne krútiť hlavou a dávať mu najavo, že týmto spôsobom asi skúškami neprejde. Ako by si postupoval?'
     },
+    {
+        nadpis: 'Modelová situácia č.20',
+        text: 'Na tábore počas jednej z hier za tebou príde člen tvojej družiny a pošepká ti, že má strach - niekto z detí na tábore šíril správu, že má prísť veľká búrka. Zdelí ti, že sa búrok veľmi bojí a chce z tábora odísť domov. Ako by si ho vypočul?'
+    }
 ]
 
 //Definovanie ostatných tém
@@ -168,6 +172,10 @@ const vedlajsieTemy = [
         nadpis: 'Vzdelávací systém',
         text: '●\tvzdelávací systém (stupne, vzdelávacie moduly a voľné vzdelávacie kurzy) – rozdiely, základná charakteristika a význam vzdelávania vo všeobecnosti\n●\thodnosti (radca, líder, vodca, inštruktor), ich insígnie a spôsob získania hodnosti\n●\trozdiel medzi vedúcim a vodcom\n●\tskúšky v systéme RpV – radcovské skúšky (náplň skúšok RK; základy skúšania)\n●\tvzdelávacia ponuka SLSK a iné možnosti vzdelávania pre lídrov a členov oddielu (podľa veku, zamerania činnosti, potreby)'
     },
+    {
+        nadpis: 'Safe from harm - Bezpečné prostredie na skautingu',
+        text: '●\tčo je Safe from Harm a Bezpečný skauting\n●\tšikana a iné formy násilia\n●\tmetódy ako vytvárať bezpečné prostredie v oddiely\n●\tčo je to grooming a ako ho rozpoznať\n●\tako sa chrániť, ako povedať nie\n●\tako vhodne vypočuť dieťa/zverujúcu sa osobu\n●\tetický kódex'
+    }
 ]
 
 //Definovanie nosných tém
@@ -186,11 +194,11 @@ const nosneTemy = [
 //Definovanie kombinácii
 //Nosná téma 1
 
-const nos1 = [0, 2, 3, 4, 5, 14, 13, 11, 10, 12]
+const nos1 = [0, 2, 3, 4, 5, 14, 13, 11, 10, 12, 15]
 
 //nosná téma 2
 
-const nos2 = [1, 6, 7, 8, 9, 12, 11, 10, 3]
+const nos2 = [1, 6, 7, 8, 9, 12, 11, 10, 3, 15]
 
 //Definovanie funkcii
 
